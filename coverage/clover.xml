@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1767789728709" clover="3.2.0">
+  <project timestamp="1767789728709" name="All files">
+    <metrics statements="192" coveredstatements="178" conditionals="52" coveredconditionals="47" methods="87" coveredmethods="77" elements="331" coveredelements="302" complexity="0" loc="192" ncloc="192" packages="13" files="16" classes="16"/>
+    <package name="assets.icons">
+      <metrics statements="18" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="6"/>
+      <file name="index.tsx" path="/home/admin1/Desktop/assign/src/assets/icons/index.tsx">
+        <metrics statements="18" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="6"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="22" count="4" type="stmt"/>
+        <line num="23" count="30" type="stmt"/>
+        <line num="39" count="4" type="stmt"/>
+        <line num="40" count="29" type="stmt"/>
+        <line num="56" count="4" type="stmt"/>
+        <line num="57" count="15" type="stmt"/>
+        <line num="73" count="4" type="stmt"/>
+        <line num="74" count="28" type="stmt"/>
+        <line num="83" count="4" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="100" count="4" type="stmt"/>
+        <line num="101" count="13" type="stmt"/>
+        <line num="117" count="4" type="stmt"/>
+        <line num="118" count="13" type="stmt"/>
+        <line num="134" count="4" type="stmt"/>
+        <line num="135" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.ErrorMessage">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="ErrorMessage.tsx" path="/home/admin1/Desktop/assign/src/components/ErrorMessage/ErrorMessage.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.FilterBar">
+      <metrics statements="13" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="5"/>
+      <file name="FilterBar.tsx" path="/home/admin1/Desktop/assign/src/components/FilterBar/FilterBar.tsx">
+        <metrics statements="13" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="5"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="13" type="stmt"/>
+        <line num="10" count="13" type="stmt"/>
+        <line num="11" count="13" type="stmt"/>
+        <line num="12" count="13" type="stmt"/>
+        <line num="14" count="13" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="18" count="13" type="stmt"/>
+        <line num="19" count="14" type="stmt"/>
+        <line num="22" count="13" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="42" count="14" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.LoadingSpinner">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="LoadingSpinner.tsx" path="/home/admin1/Desktop/assign/src/components/LoadingSpinner/LoadingSpinner.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.ProductCard">
+      <metrics statements="10" coveredstatements="9" conditionals="10" coveredconditionals="8" methods="3" coveredmethods="3"/>
+      <file name="ProductCard.tsx" path="/home/admin1/Desktop/assign/src/components/ProductCard/ProductCard.tsx">
+        <metrics statements="10" coveredstatements="9" conditionals="10" coveredconditionals="8" methods="3" coveredmethods="3"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="28" type="stmt"/>
+        <line num="15" count="57" type="stmt"/>
+        <line num="17" count="28" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="27" count="28" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.SearchBar">
+      <metrics statements="9" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="3"/>
+      <file name="SearchBar.tsx" path="/home/admin1/Desktop/assign/src/components/SearchBar/SearchBar.tsx">
+        <metrics statements="9" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="3"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="30" type="stmt"/>
+        <line num="9" count="30" type="stmt"/>
+        <line num="10" count="30" type="stmt"/>
+        <line num="12" count="30" type="stmt"/>
+        <line num="13" count="7" type="stmt"/>
+        <line num="16" count="30" type="stmt"/>
+        <line num="24" count="12" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="hooks">
+      <metrics statements="8" coveredstatements="8" conditionals="1" coveredconditionals="1" methods="4" coveredmethods="4"/>
+      <file name="useDebounce.ts" path="/home/admin1/Desktop/assign/src/hooks/useDebounce.ts">
+        <metrics statements="8" coveredstatements="8" conditionals="1" coveredconditionals="1" methods="4" coveredmethods="4"/>
+        <line num="3" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="4" count="37" type="stmt"/>
+        <line num="6" count="37" type="stmt"/>
+        <line num="7" count="22" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="11" count="22" type="stmt"/>
+        <line num="12" count="22" type="stmt"/>
+        <line num="16" count="37" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.Favorites">
+      <metrics statements="12" coveredstatements="12" conditionals="8" coveredconditionals="6" methods="7" coveredmethods="7"/>
+      <file name="Favorites.tsx" path="/home/admin1/Desktop/assign/src/pages/Favorites/Favorites.tsx">
+        <metrics statements="12" coveredstatements="12" conditionals="8" coveredconditionals="6" methods="7" coveredmethods="7"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="24" count="5" type="stmt"/>
+        <line num="65" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.ProductListing">
+      <metrics statements="14" coveredstatements="13" conditionals="13" coveredconditionals="12" methods="6" coveredmethods="5"/>
+      <file name="ProductListing.tsx" path="/home/admin1/Desktop/assign/src/pages/ProductListing/ProductListing.tsx">
+        <metrics statements="14" coveredstatements="13" conditionals="13" coveredconditionals="12" methods="6" coveredmethods="5"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="13" type="stmt"/>
+        <line num="17" count="13" type="stmt"/>
+        <line num="18" count="13" type="stmt"/>
+        <line num="19" count="13" type="stmt"/>
+        <line num="20" count="13" type="stmt"/>
+        <line num="22" count="13" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="29" count="13" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="33" count="13" type="stmt"/>
+        <line num="70" count="18" type="stmt"/>
+      </file>
+    </package>
+    <package name="services">
+      <metrics statements="16" coveredstatements="16" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3"/>
+      <file name="api.ts" path="/home/admin1/Desktop/assign/src/services/api.ts">
+        <metrics statements="16" coveredstatements="16" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="store">
+      <metrics statements="29" coveredstatements="28" conditionals="8" coveredconditionals="8" methods="19" coveredmethods="16"/>
+      <file name="hooks.ts" path="/home/admin1/Desktop/assign/src/store/hooks.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="89" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+      </file>
+      <file name="selectors.ts" path="/home/admin1/Desktop/assign/src/store/selectors.ts">
+        <metrics statements="27" coveredstatements="26" conditionals="8" coveredconditionals="8" methods="18" coveredmethods="15"/>
+        <line num="5" count="21" type="stmt"/>
+        <line num="6" count="17" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="8" count="17" type="stmt"/>
+        <line num="9" count="17" type="stmt"/>
+        <line num="11" count="21" type="stmt"/>
+        <line num="12" count="38" type="stmt"/>
+        <line num="13" count="38" type="stmt"/>
+        <line num="15" count="8" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="17" count="59" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="23" count="9" type="stmt"/>
+        <line num="26" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="29" count="6" type="stmt"/>
+        <line num="34" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="36" count="6" type="stmt"/>
+        <line num="41" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="42" count="4" type="stmt"/>
+        <line num="43" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="44" count="4" type="stmt"/>
+        <line num="47" count="9" type="stmt"/>
+        <line num="51" count="4" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="store.slices">
+      <metrics statements="57" coveredstatements="51" conditionals="2" coveredconditionals="2" methods="23" coveredmethods="22"/>
+      <file name="favoritesSlice.ts" path="/home/admin1/Desktop/assign/src/store/slices/favoritesSlice.ts">
+        <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="13" count="7" type="stmt"/>
+        <line num="14" count="7" type="stmt"/>
+        <line num="15" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+      </file>
+      <file name="filtersSlice.ts" path="/home/admin1/Desktop/assign/src/store/slices/filtersSlice.ts">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="15" count="8" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="32" count="5" type="stmt"/>
+      </file>
+      <file name="productsSlice.ts" path="/home/admin1/Desktop/assign/src/store/slices/productsSlice.ts">
+        <metrics statements="38" coveredstatements="32" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="13"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="33" count="3" type="stmt"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="35" count="3" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="42" count="5" type="stmt"/>
+        <line num="50" count="5" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="59" count="5" type="stmt"/>
+        <line num="62" count="4" type="stmt"/>
+        <line num="63" count="4" type="stmt"/>
+        <line num="66" count="4" type="stmt"/>
+        <line num="67" count="4" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="76" count="1" type="stmt"/>
+        <line num="79" count="1" type="stmt"/>
+        <line num="80" count="1" type="stmt"/>
+        <line num="83" count="1" type="stmt"/>
+        <line num="84" count="1" type="stmt"/>
+        <line num="88" count="4" type="stmt"/>
+        <line num="89" count="4" type="stmt"/>
+        <line num="92" count="4" type="stmt"/>
+        <line num="93" count="4" type="stmt"/>
+        <line num="96" count="1" type="stmt"/>
+        <line num="97" count="1" type="stmt"/>
+        <line num="102" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="formatPrice.ts" path="/home/admin1/Desktop/assign/src/utils/formatPrice.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="2" count="28" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
