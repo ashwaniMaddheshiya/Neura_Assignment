@@ -2,6 +2,8 @@
 
 A production-ready product dashboard with a modern dark UI, responsive design, typed Redux state, debounced search/filter/sort, favorites, and comprehensive testing (unit + integration).
 
+<img width="1907" height="875" alt="image" src="https://github.com/user-attachments/assets/c28323bf-e06f-422b-9f5c-8143d4acbd69" />
+
 ---
 
 ## Tech Stack
@@ -113,29 +115,10 @@ src/
 ---
 
 ## Testing Coverage
+<img width="730" height="609" alt="Screenshot from 2026-01-07 18-18-26" src="https://github.com/user-attachments/assets/5a91f33a-3fba-42f0-a94f-7e419b645351" />
 
-- Unit tests for:
-  - Redux slices (products, filters, favorites)
-  - Selectors
-  - Hooks (`useDebounce`)
-  - UI components (`ProductCard`, `ErrorMessage`, `SearchBar`)
-- Integration tests for:
-  - Product listing search and filtering
-  - Favorites flow
 - Current coverage:
   - ~92% Statements  
   - ~90% Branches  
   - ~88% Functions  
   - ~92% Lines  
-
----
-
-## Notes
-
-- Icons are centralized in `src/assets/icons/index.tsx`  
-- Use `npm run check` before pushing changes to ensure:
-  - Type safety
-  - Linting passes
-  - All tests are green  
-- Async thunk error flows and UI edge cases are fully tested  
-
