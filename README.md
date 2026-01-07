@@ -38,6 +38,7 @@ A production-ready product dashboard with a modern dark UI, responsive design, t
 ---
 
 ## Getting Started
+Clone the repo : https://github.com/ashwaniMaddheshiya/Neura_Assignment
 
 Install dependencies and start the development server:
 
